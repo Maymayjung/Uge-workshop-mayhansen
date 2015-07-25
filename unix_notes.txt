@@ -6,45 +6,45 @@
     6  cp tether-linux.tgz ~
     7  cd ~
     8  ls
-    9  tar -xzf tether-linux.tgz 
+    9  tar -xzf tether-linux.tgz
    10  ls
    11  cd Te
    12  cd Tether/
    13  ls
-   14  less README 
-   15  sudo ./linux/run.sh 
+   14  less README
+   15  sudo ./linux/run.sh
    16  cd node
-   17  ./configure 
+   17  ./configure
    18  make
-   19  sudo ./linux/run.sh 
+   19  sudo ./linux/run.sh
    20  cd ..
-   21  sudo ./linux/run.sh 
+   21  sudo ./linux/run.sh
    22  ls
-   23  nano README 
-   24  sudo .linux/run.sh 
-   25  nano README 
-   26  sudo linux/run.sh 
+   23  nano README
+   24  sudo .linux/run.sh
+   25  nano README
+   26  sudo linux/run.sh
    27  exit
    28  halt
    29  sudo halt
    30  top
    31  exit
    32  sudo -s
-   33  ps ax 
+   33  ps ax
    34  man ps
    35  man top
-   36  man sudo 
+   36  man sudo
    37  top
    38  apt-get update
    39  apt-get upgrade
-   40  apt-get install chromium-browser xubuntu-desktop kubuntu-desktop 
+   40  apt-get install chromium-browser xubuntu-desktop kubuntu-desktop
    41  sudo apt-get install adobe-flashplugin gnash
    42  sudo apt-get install  gnash
    43  sudo apt-get install ubuntu-restricted-extras
    44  sudo apt-get install -f
    45  sudo apt-get update
    46  sudo apt-get upgrade
-   47  apt-get install fluxbox blackbox 
+   47  apt-get install fluxbox blackbox
    48  apt-get install netbeans
    49  reboot
    50  sudo -s
@@ -53,9 +53,9 @@
    53  apt-get install netbeans
    54  sudo apt-get install virtualbox-ose virtualbox-ose-source virtualbox-guest-additions
    55  sudo apt-get install virtualbox
-   56  sudo apt-get install virtualbox virtualbox-qt virtualbox-guest-additions-iso 
-   57  sudo apt-get install quanta kompare kxsldbg cervisia git 
-   58  sudo apt-get install  git 
+   56  sudo apt-get install virtualbox virtualbox-qt virtualbox-guest-additions-iso
+   57  sudo apt-get install quanta kompare kxsldbg cervisia git
+   58  sudo apt-get install  git
    59  halt
    60  sudo -s
    61  apt-get update
@@ -63,21 +63,21 @@
    63  sudo add-apt-repository ppa:webupd8team/sublime-text-2
    64  sudo apt-get update
    65  sudo apt-get install sublime-text
-   66  iwconfig 
-   67  ifconfig 
-   68  iwconfig 
-   69  ifconfig 
+   66  iwconfig
+   67  ifconfig
+   68  iwconfig
+   69  ifconfig
    70  ping google.com
-   71  sublime-text 
+   71  sublime-text
    72  sudo apt-get install pepperflashplugin-nonfree
    73  sudo apt-get install pepperflashplugin-nonfree --status
    74  sudo apt-get install pepperflashplugin-nonfree --install
-   75  iwconfig 
-   76  ifconfig 
-   77  iwconfig 
-   78  ifconfig 
+   75  iwconfig
+   76  ifconfig
+   77  iwconfig
+   78  ifconfig
    79  sublime
-   80  sublime-text 
+   80  sublime-text
    81  ls -l
    82  ls
    83  pwd
@@ -98,7 +98,7 @@
    98  pwd
    99  mkdir maymay
   100  rm -rf maymay
-  101  rm tether-linux.tgz 
+  101  rm tether-linux.tgz
   102  rm -rf maytest
   103  ls
   104  pwd
@@ -109,16 +109,16 @@
   109  gedit
   110  gedit &
   111  lspci
-  112  iwconfig 
-  113  ifconfig 
+  112  iwconfig
+  113  ifconfig
   114  sudo apt-get install bluez-utils bluez-firmware
-  115  sudo apt-get install bluez-utils bluez-tools 
+  115  sudo apt-get install bluez-utils bluez-tools
   116  LXRandR
   117  apt-get install lxrandr
   118  sudo apt-get install lxrandr
   119  lxrandr &
   120  bluetooth-agent &
-  121  bluetooth-wizard 
+  121  bluetooth-wizard
   122  co
   123  sudo -s
   124  nano /etc/x11/xorg.conf
@@ -148,7 +148,7 @@
   148  ps
   149  syndaemon -i 1 -K -d
   150  gedit &
-  151  apt-get install netbeans 
+  151  apt-get install netbeans
   152  apt-get auto-remove
   153  apt-get autoremove
   154  syndaemon -i 1 -K -d
@@ -161,7 +161,7 @@
   161  git init
   162  ls-la
   163  ls -la
-  164  firefox 
+  164  firefox
   165  git
   166  git status
   167  ls -la
@@ -187,7 +187,7 @@
   187  nano MAYSFILE
   188  ls
   189  git status
-  190  git add MAYSFILE 
+  190  git add MAYSFILE
   191  git status
   192  git commit
   193  git commit -m "I AM TESTING NOW"
@@ -195,7 +195,7 @@
   195  git push
   196  ls
   197  nano
-  198  nano MAYSFILE 
+  198  nano MAYSFILE
   199  git status
   200  cd Desktop/test/
   201  ls
@@ -223,7 +223,7 @@
   223  sudo git status
   224  sudo
   225  syndaemon -i -K 1 -d
-  226  syndaemon -i 1 -K -d 
+  226  syndaemon -i 1 -K -d
   227  gnumeric &
   228  gnumeric
   229  python
@@ -250,9 +250,9 @@
   250  apt-get install -f
   251  apt-get remove kde-cli-tools-data
   252  apt-get install kde-l10n-th
-  253  apt-get remove kdeplasma-addons-data 
+  253  apt-get remove kdeplasma-addons-data
   254  apt-get install kde-l10n-th
-  255  apt-get remove kinfocenter 
+  255  apt-get remove kinfocenter
   256  apt-get install kde-l10n-th
   257  apt-get remove kubuntu-desktop
   258  apt-get auto-remove
@@ -263,7 +263,7 @@
   263  apt-get clean
   264  apt-get autoremove
   265  apt-get install kde-l10n-th
-  266  apt-get install 
+  266  apt-get install
   267  apt-get install kde-l10n-th
   268  uname-r
   269  uname -r
@@ -273,10 +273,10 @@
   273  reboot
   274  apt-get update
   275  apt-get upgrade
-  276  apt-get install kubuntu-desktop 
+  276  apt-get install kubuntu-desktop
   277  reboot
   278  top
-  279  iwconfig 
+  279  iwconfig
   280  sudo -s
   281  python -V
   282  libreoffice
@@ -297,6 +297,8 @@
   297  ls
   298  ls -la
   299  cd html5-boilerplate/
+
+//Alex added a line here.
   300  ls
   301  pwd
   302  cd ..
@@ -350,21 +352,21 @@
   350  cd maymayjung
   351  nano notes.txt
   352  nano unix_notes.txt
-  353  sublime-text unix_notes.txt 
-  354  nano unix_notes.txt 
+  353  sublime-text unix_notes.txt
+  354  nano unix_notes.txt
   355  nano git_notes.txt
-  356  sublime-text git_notes.txt 
-  357  git add git_notes.txt 
-  358  git add unix_notes.txt 
+  356  sublime-text git_notes.txt
+  357  git add git_notes.txt
+  358  git add unix_notes.txt
   359  git commit
   360  cd..
   361  cd ..
   362  ls
   363  git add maymayjung
-  364  git commit 
+  364  git commit
   365  git push origin notes
   366  app get google chrome
-  367  app -get 
+  367  app -get
   368  app-get
   369  mkdir /etc/apt/sources.list.d
   370  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -

@@ -1,0 +1,4 @@
+learning git
+git add add an untrack to staging area
+git status to check a status of where are we at
+git commit to commit the files to server

@@ -1,0 +1,510 @@
+    1  cd /media/
+    2  ls
+    3  df
+    4  cd /media/may/MULTIBOOT/
+    5  ls
+    6  cp tether-linux.tgz ~
+    7  cd ~
+    8  ls
+    9  tar -xzf tether-linux.tgz 
+   10  ls
+   11  cd Te
+   12  cd Tether/
+   13  ls
+   14  less README 
+   15  sudo ./linux/run.sh 
+   16  cd node
+   17  ./configure 
+   18  make
+   19  sudo ./linux/run.sh 
+   20  cd ..
+   21  sudo ./linux/run.sh 
+   22  ls
+   23  nano README 
+   24  sudo .linux/run.sh 
+   25  nano README 
+   26  sudo linux/run.sh 
+   27  exit
+   28  halt
+   29  sudo halt
+   30  top
+   31  exit
+   32  sudo -s
+   33  ps ax 
+   34  man ps
+   35  man top
+   36  man sudo 
+   37  top
+   38  apt-get update
+   39  apt-get upgrade
+   40  apt-get install chromium-browser xubuntu-desktop kubuntu-desktop 
+   41  sudo apt-get install adobe-flashplugin gnash
+   42  sudo apt-get install  gnash
+   43  sudo apt-get install ubuntu-restricted-extras
+   44  sudo apt-get install -f
+   45  sudo apt-get update
+   46  sudo apt-get upgrade
+   47  apt-get install fluxbox blackbox 
+   48  apt-get install netbeans
+   49  reboot
+   50  sudo -s
+   51  chromium-browser &
+   52  top
+   53  apt-get install netbeans
+   54  sudo apt-get install virtualbox-ose virtualbox-ose-source virtualbox-guest-additions
+   55  sudo apt-get install virtualbox
+   56  sudo apt-get install virtualbox virtualbox-qt virtualbox-guest-additions-iso 
+   57  sudo apt-get install quanta kompare kxsldbg cervisia git 
+   58  sudo apt-get install  git 
+   59  halt
+   60  sudo -s
+   61  apt-get update
+   62  apt-get upgrade
+   63  sudo add-apt-repository ppa:webupd8team/sublime-text-2
+   64  sudo apt-get update
+   65  sudo apt-get install sublime-text
+   66  iwconfig 
+   67  ifconfig 
+   68  iwconfig 
+   69  ifconfig 
+   70  ping google.com
+   71  sublime-text 
+   72  sudo apt-get install pepperflashplugin-nonfree
+   73  sudo apt-get install pepperflashplugin-nonfree --status
+   74  sudo apt-get install pepperflashplugin-nonfree --install
+   75  iwconfig 
+   76  ifconfig 
+   77  iwconfig 
+   78  ifconfig 
+   79  sublime
+   80  sublime-text 
+   81  ls -l
+   82  ls
+   83  pwd
+   84  cd /
+   85  ls
+   86  pwd
+   87  cd home
+   88  pwd
+   89  cd may/
+   90  pwd
+   91  cd /
+   92  ls
+   93  pwd
+   94  cd ~
+   95  pwd
+   96  mkdir maytest
+   97  ls
+   98  pwd
+   99  mkdir maymay
+  100  rm -rf maymay
+  101  rm tether-linux.tgz 
+  102  rm -rf maytest
+  103  ls
+  104  pwd
+  105  cd /
+  106  pwd
+  107  ls
+  108  man ls
+  109  gedit
+  110  gedit &
+  111  lspci
+  112  iwconfig 
+  113  ifconfig 
+  114  sudo apt-get install bluez-utils bluez-firmware
+  115  sudo apt-get install bluez-utils bluez-tools 
+  116  LXRandR
+  117  apt-get install lxrandr
+  118  sudo apt-get install lxrandr
+  119  lxrandr &
+  120  bluetooth-agent &
+  121  bluetooth-wizard 
+  122  co
+  123  sudo -s
+  124  nano /etc/x11/xorg.conf
+  125  cd /etc/X11/
+  126  ls
+  127  slocate xorg.conf
+  128  locate xorg.conf
+  129  updatedb
+  130  sudo apt-get install gpointing-device-settings
+  131  gpointing-device-settings
+  132  dmesg | grep syn
+  133  dmesg | grep touchpad
+  134  dmesg | grep touch
+  135  syndaemon -i 1 -K -d
+  136  fdgdfgfdgfdgdfgdfgfdgfdgdfgdfgdfgdfgfdgdfgdfgdfgdfgdfgdfgdfgdfgfdgfdggdfgfdgfdgdfggdgfdfgfdgfdgfdgfdgfdgfdgfdgr
+  137  lskdflkdsf
+  138  sudo halt
+  139  sudo apt-get install gdm
+  140  notepad
+  141  sudo apt-get notepad
+  142  sudo notepad
+  143  apt-get notepad
+  144  sudo apt-get notepad
+  145  notepad
+  146  ls notepad
+  147  ls code
+  148  ps
+  149  syndaemon -i 1 -K -d
+  150  gedit &
+  151  apt-get install netbeans 
+  152  apt-get auto-remove
+  153  apt-get autoremove
+  154  syndaemon -i 1 -K -d
+  155  git
+  156  man git
+  157  mkdir mayscode
+  158  ls
+  159  cd mayscode/
+  160  pwd
+  161  git init
+  162  ls-la
+  163  ls -la
+  164  firefox 
+  165  git
+  166  git status
+  167  ls -la
+  168  pwd
+  169  sudo -s
+  170  kls
+  171  ls
+  172  cd mayscode/
+  173  ls
+  174  sudo add-apt-repository ppa:rabbitvcs/ppa
+  175  sudo apt-get install rabbitvcs-nautilus3
+  176  sudo apt-get install rabbitvcs-nautilus
+  177  git config --global user.name "maymayjung"
+  178  git config --global user.email "th.sudarat@gmail.com"
+  179  ls
+  180  rm -rf mayscode/
+  181  cd Desktop/
+  182  ls
+  183  git clone https://github.com/Maymayjung/test.git
+  184  ls
+  185  cd test
+  186  ls
+  187  nano MAYSFILE
+  188  ls
+  189  git status
+  190  git add MAYSFILE 
+  191  git status
+  192  git commit
+  193  git commit -m "I AM TESTING NOW"
+  194  git opuch
+  195  git push
+  196  ls
+  197  nano
+  198  nano MAYSFILE 
+  199  git status
+  200  cd Desktop/test/
+  201  ls
+  202  git push
+  203  git status
+  204  MAYSFILE
+  205  git status
+  206  nautilus &
+  207  ls
+  208  cd Desktop
+  209  ls
+  210  cd test
+  211  ls
+  212  logout
+  213  git status
+  214  git add
+  215  sudo
+  216  git status
+  217  sudo_root
+  218  sudo_may
+  219  root sudo
+  220  ls
+  221  git status
+  222  git commit
+  223  sudo git status
+  224  sudo
+  225  syndaemon -i -K 1 -d
+  226  syndaemon -i 1 -K -d 
+  227  gnumeric &
+  228  gnumeric
+  229  python
+  230  python3
+  231  python3-V
+  232  xls
+  233  libreoffice
+  234  libre office
+  235  libreoffice
+  236  sudo -s
+  237  apt-get update
+  238  apt-get upgrade
+  239  sudo -s
+  240  apt-get update
+  241  apt-get upgrade
+  242  apt-get update
+  243  apt-get upgrade
+  244  apt-get autoremove
+  245  apt-get update
+  246  apt-get upgrade
+  247  sudo -s
+  248  apt-get update
+  249  apt-get install kde-l10n-th
+  250  apt-get install -f
+  251  apt-get remove kde-cli-tools-data
+  252  apt-get install kde-l10n-th
+  253  apt-get remove kdeplasma-addons-data 
+  254  apt-get install kde-l10n-th
+  255  apt-get remove kinfocenter 
+  256  apt-get install kde-l10n-th
+  257  apt-get remove kubuntu-desktop
+  258  apt-get auto-remove
+  259  apt-get autoremove
+  260  apt-get install kde-l10n-th
+  261  apt-get remove kwin-data
+  262  apt-get install kde-l10n-th
+  263  apt-get clean
+  264  apt-get autoremove
+  265  apt-get install kde-l10n-th
+  266  apt-get install 
+  267  apt-get install kde-l10n-th
+  268  uname-r
+  269  uname -r
+  270  sudo apt-get dist-upgrade
+  271  sudo apt-get update
+  272  apt-get upgrade
+  273  reboot
+  274  apt-get update
+  275  apt-get upgrade
+  276  apt-get install kubuntu-desktop 
+  277  reboot
+  278  top
+  279  iwconfig 
+  280  sudo -s
+  281  python -V
+  282  libreoffice
+  283  python -V
+  284  python
+  285  git -v
+  286  git --version
+  287  g
+  288  ls /usr/bin
+  289  ls /usr/bin |less
+  290  git
+  291  man git
+  292  cd Desktop/
+  293  ls
+  294  mkdir play
+  295  cd play/
+  296  git clone https://greenido@github.com/greenido/html5-boilerplate.git
+  297  ls
+  298  ls -la
+  299  cd html5-boilerplate/
+  300  ls
+  301  pwd
+  302  cd ..
+  303  pwd
+  304  ls
+  305  ls la
+  306  ls -la
+  307  ls
+  308  cd html5-boilerplate/
+  309  ls
+  310  apt-get
+  311  apt-get update
+  312  apt-get upgrade
+  313  links
+  314  apt-get install links
+  315  apt-get install e-links
+  316  exit
+  317  sudo -s
+  318  links
+  319  pwd
+  320  ls
+  321  cd Desktop/
+  322  ls
+  323  ls -la
+  324  cd play
+  325  ls
+  326  cd unix-and-git-workshop/
+  327  ls
+  328  pwd
+  329  pwd
+  330  ls
+  331  cd Desktop/
+  332  ls
+  333  cd play
+  334  ls
+  335  pwd
+  336  git clone https://github.com/Maymayjung/unix-and-git-workshop
+  337  ls
+  338  cd unix-and-git-workshop/
+  339  ls
+  340  ls -la
+  341  git branch
+  342  git checkout -b notes
+  343  git branch
+  344  git push origin notes
+  345  git branch
+  346  git checkout notes
+  347  ls -la
+  348  mkdir maymayjung
+  349  ls -la
+  350  cd maymayjung
+  351  nano notes.txt
+  352  nano unix_notes.txt
+  353  sublime-text unix_notes.txt 
+  354  nano unix_notes.txt 
+  355  nano git_notes.txt
+  356  sublime-text git_notes.txt 
+  357  git add git_notes.txt 
+  358  git add unix_notes.txt 
+  359  git commit
+  360  cd..
+  361  cd ..
+  362  ls
+  363  git add maymayjung
+  364  git commit 
+  365  git push origin notes
+  366  app get google chrome
+  367  app -get 
+  368  app-get
+  369  mkdir /etc/apt/sources.list.d
+  370  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+  371  sudo app-get
+  372  sudo app-get update
+  373  sudo update
+  374  app-get update
+  375  sudo apt-get install google-chrome-stable
+  376  app -get upgrade
+  377  app-get upgrade
+  378  sudo app-get upgrade
+  379  sudo apt-get upgrade
+  380  google chrome
+  381  sudo apt-get install google chrome
+  382  sudo apt-get update
+  383  sudo apt-get upgrade
+  384  sudo apt-get install google chrome
+  385  wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+  386  pwd
+  387  cd
+  388  pwd
+  389  cd /
+  390  ls
+  391  ls -t
+  392  ls -l
+  393  ls -lt
+  394  ls -r
+  395  ls -rt
+  396  man ls
+  397  ls -la
+  398  ls
+  399  ls -la
+  400  ls -l
+  401  ls -l *.jpg
+  402  ls -l * .jpg
+  403  man ls
+  404  ls -a
+  405  ls -lh
+  406  cd
+  407  pwd
+  408  cd
+  409  ls
+  410  ls -la
+  411  man ls
+  412  pwd
+  413  cd
+  414  cd /c/may/
+  415  cd /c/may/may hansne
+  416  cd
+  417  pwd
+  418  cd
+  419  pwd
+  420  ls
+  421  ls -l
+  422  ls -la
+  423  ls
+  424  ls -l
+  425  cd Desktop
+  426  cd Public
+  427  cd Desktop
+  428  cd
+  429  cd Desktop
+  430  pwd
+  431  cd
+  432  cd home
+  433  cd
+  434  cd home
+  435  cd
+  436  pwd
+  437  cd
+  438  cd ..
+  439  pwd
+  440  cd ..
+  441  cd
+  442  pwd
+  443  cd
+  444  cd ..
+  445  pw
+  446  pwd
+  447  cd may
+  448  cd ..
+  449  cd may
+  450  cd
+  451  pwd
+  452  ls
+  453  cd Desktop
+  454  cd ..
+  455  cd Desktop
+  456  cd home
+  457  cd
+  458  cd Desktop
+  459  cd
+  460  pwd
+  461  cd
+  462  cd Documents
+  463  cd
+  464  ls
+  465  ls ~
+  466  ls /
+  467  ls
+  468  ls -la/Users/
+  469  ls -la
+  470  ls
+  471  ls /
+  472  ls ~
+  473  ls /Documents
+  474  ls ~Documents
+  475  ls Documents
+  476  ls
+  477  ls.
+  478  ls .
+  479  cd ..
+  480  ls
+  481  may
+  482  cd
+  483  cd ..
+  484  ls
+  485  cd
+  486  ls
+  487  cd ...
+  488  ...
+  489  cd ...
+  490  .
+  491  cd .
+  492  cd ..
+  493  ls
+  494  cd
+  495  cd Desktop
+  496  cd .
+  497  cd ..
+  498  cd
+  499  pwd
+  500  history
+  501  history 5
+  502  history 10
+  503  history |less
+  504  man less
+  505  less
+  506  history 5
+  507  pwd ls
+  508  cd
+  509  pwd
+  510  history > moving_around.txt
